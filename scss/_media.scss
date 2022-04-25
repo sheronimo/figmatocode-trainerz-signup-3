@@ -1,0 +1,9 @@
+@media (max-width: 48rem) {
+	.container {
+		grid-template-columns: 1fr;
+	}
+
+	.image-container {
+		height: auto;
+	}
+}
