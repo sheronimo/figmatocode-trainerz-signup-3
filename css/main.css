@@ -20,4 +20,17 @@ img {
 input {
   font-family: inherit;
   font-size: inherit;
+}
+
+body {
+  background-color: hsl(0deg, 0%, 100%);
+  color: hsl(0deg, 0%, 18%);
+  font-family: "Lato", sans-serif;
+  min-height: 100vh;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  justify-items: center;
 }/*# sourceMappingURL=main.css.map */
